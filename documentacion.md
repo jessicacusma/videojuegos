@@ -50,10 +50,10 @@ World Games es un sitio web completo para fanáticos de los videojuegos, ofrecie
 ## 🌍 Impacto Social y Ambiental 🌍
 ### Responsabilidad Corporativa
 "Games World" se compromete con:
-✅**Prácticas responsables y éticas:** Generación de contenido que fomente la diversidad cultural y sea accesible para todos los públicos.
-✅**Reducción del impacto ecológico:** Minimizar su huella ecológica en la producción.
-✅**Apoyo comunitario:** Apoyo a iniciativas educativas y sociales para fortalecer las comunidades a través de los videojuegos.
-✅**Normas éticas elevadas:** Asegurar altos estándares de integridad en cada aspecto de nuestra operación..
+- **Prácticas responsables y éticas:** Generación de contenido que fomente la diversidad cultural y sea accesible para todos los públicos.
+- **Reducción del impacto ecológico:** Minimizar su huella ecológica en la producción.
+- **Apoyo comunitario:** Apoyo a iniciativas educativas y sociales para fortalecer las comunidades a través de los videojuegos.
+- **Normas éticas elevadas:** Asegurar altos estándares de integridad en cada aspecto de nuestra operación..
 
 ## 📊 Análisis de Mercado 📊
 ### Oportunidades de Mercado
