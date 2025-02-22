@@ -73,10 +73,10 @@ Aplicamos un enfoque ágil, adaptándonos rápidamente a los cambios y necesidad
 La implementación se realizará en etapas, iniciando con el diseño y desarrollo del sitio web, seguido de pruebas internas y su lanzamiento al público. Se mantendrá un monitoreo constante y se aplicarán mejoras según la retroalimentación recibida.
 
 ### Despliegue y Escalabilidad
-Usaremos servicios en la nube para el despliegue del Blog Cineplanet, asegurando escalabilidad automática y eficiente gestión de recursos para una experiencia de usuario consistente.
+El sitio será escalable, permitiendo agregar nuevas funciones y contenido a medida que la base de usuarios crezca, sin afectar la estabilidad o rendimiento.
 
 ### Presupuesto
-El presupuesto se destinará prioritariamente al desarrollo de software, mantenimiento de infraestructura y estrategias de marketing digital. Esto permitirá optimizar la visibilidad y participación del Blog Cineplanet en el mercado.
+Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, marketing, infraestructura y mantenimiento, buscando maximizar la eficiencia y asegurar la rentabilidad a largo plazo.
 
 | Rubro                    | Descripción                                                                     | Monto Estimado ($) |
 | ------------------------ | ------------------------------------------------------------------------------- | ------------------ |
