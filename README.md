@@ -3,7 +3,8 @@
 
 **GAMES WORLD** es un sitio web dedicado a los videojuegos, donde se presentan algunos de los títulos más destacados. Incluye una sección de destacados con información y opciones de compra para diferentes videojuegos populares.
 
-![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/88f04e0b-1584-4013-b168-c76d540f2676)
+![127 0 0 1_5501_index html](https://github.com/user-attachments/assets/ccd271bf-4ad5-48c6-a4a8-78318c836c18)
+
 
 
 ## 💻 Installation 💻
@@ -27,11 +28,12 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 ```bash
 📂 videojuegos/
  ├── 📂 Galería/         # Imágenes de videojuegos
- ├── 📂 Formulario/      # Página del formulario de compra
+ ├── 📂 aboutUs/         # Página de información sobre la empresa
  ├── 📂 Contacto/        # Página de contacto
- ├── 📂 Nosotros/        # Página de información sobre la empresa
+ ├── 📂 Store/           # Sección de la tienda para explorar y comprar juegos.
  ├── 📄 index.html       # Página principal
  ├── 📄 README.md        # Documentación del proyecto
+ ├── 📄 style.css        # Archivo de estilos para el diseño de la web. 
 
 ```
 ## 🛠️ Tecnologías Utilizadas  
