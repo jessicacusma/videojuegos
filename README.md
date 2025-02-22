@@ -1,5 +1,5 @@
 
-# 🎮 GAMES WORLD
+# 🎮 GAMES WORLD 🎮
 
 **GAMES WORLD** es un sitio web dedicado a los videojuegos, donde se presentan algunos de los títulos más destacados. Incluye una sección de destacados con información y opciones de compra para diferentes videojuegos populares.
 
