@@ -33,4 +33,3 @@ Es adaptable a varios dispositivos.
 - **HTML5**: Estructura del sitio.  
 - **CSS + Bootstrap**: Estilos y diseño responsive.  
 
->>>>>>> 0d2ee475c1bdc458dbf20f9d7851907cb2905771
