@@ -5,22 +5,14 @@
 
 ![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/88f04e0b-1584-4013-b168-c76d540f2676)
 
-## 🚀 Instalación
-Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
-1. Clona el repositorio en tu computadora
+## 💻 Installation 💻
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
-git clone https://github.com/jessicacusma/videojuegos.git
-
-cd videojuegos
-
-2. Accede al directorio del proyecto:
-
-3. Abre el archivo index.html en tu navegador:
-
-   Puedes abrir index.html directamente desde tu explorador de archivos o usar Live Server si trabajas con VS Code.
+- git clone https://github.com/jessicacusma/videojuegos.git
+- cd videojuegos
+- Puedes abrir index.html directamente desde tu explorador de archivos o usar Live Server si trabajas con VS Code.
 
 ## 📌 Características  
 ✔️ Diseño responsive con Bootstrap.  
