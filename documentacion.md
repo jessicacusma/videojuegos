@@ -22,7 +22,6 @@ Ser la plataforma líder en noticias, contenido y compras de videojuegos, destac
 
 ## 🌟 Justificación 🌟
 ### Beneficios
-
 ✔️ Los usuarios tienen acceso rápido a videojuegos populares y novedades del sector. 
 ✔️ La plataforma permite realizar compras de manera segura y sin complicaciones.
 ✔️ Ofrecemos una experiencia visualmente atractiva y fácil de navegar.
