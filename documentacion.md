@@ -9,9 +9,12 @@ El objetivo principal de "Games World" es crear una plataforma digital que facil
 
 ### Objetivos Específicos
 ✔️ Desarrollar una tienda en línea donde los usuarios puedan comprar videojuegos.
-✔️ Implementar una sección de noticias para mantener a los usuarios al tanto de los últimos lanzamientos y eventos en el ✔️ mundo de los videojuegos.
+
+✔️ Implementar una sección de noticias para mantener a los usuarios informados sobre los últimos lanzamientos y eventos en el mundo de los videojuegos.
+
 ✔️ Mejorar la navegación y experiencia del usuario a través de un diseño de interfaz intuitivo y optimizado.
-✔️ Permitir que los usuarios puedan explorar y conocer videojuegos destacados, incluidos aquellos que son populares o emergentes.
+
+✔️ Permitir que los usuarios exploren y descubran videojuegos destacados, incluyendo aquellos que son populares o emergentes.
   
 ## 🚀 Misión y Visión 🚀
 ### Misión
