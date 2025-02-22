@@ -126,7 +126,7 @@ Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, market
 | Fase                               | Fecha de Inicio | Fecha de Finalización |
 | ---------------------------------- | --------------- | --------------------- |
 | Definición de Requerimientos       | 22/02/2025      | 28/02/2025            |
-| Desarrollo de Aplicación           | 01/03/2025      | 30/14/2025            |
+| Desarrollo de Aplicación           | 01/03/2025      | 30/04/2025            |
 | Pruebas y Control de Calidad       | 01/05/2025      | 31/05/2025            |
 | Despliegue y Mantenimiento         | 01/06/2025      | 30/06/2025            |
 
@@ -134,17 +134,15 @@ Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, market
 ### Plan de Monitoreo y Mantenimiento
 El plan de monitoreo incluirá el uso de Google Analytics y Pingdom para seguimiento de rendimiento y disponibilidad, complementado con auditorías de seguridad y mantenimiento preventivo regular.
 
-### Garantía de Calidad
-Implementaremos revisión de código por pares, pruebas unitarias con Jest y Cypress, y análisis de código con ESLint, asegurando altos estándares de codificación y documentación.
+### Garantía de Calidad  
+Implementaremos revisión de código por pares, pruebas con Jest y Cypress, y análisis con ESLint. También utilizaremos Artillery para pruebas de carga y Lighthouse para optimizar el rendimiento de la tienda en línea.  
 
-### Soporte y Actualizaciones
-Ofreceremos soporte técnico continuo vía tickets y una base de conocimientos. Planificaremos actualizaciones regulares con Kubernetes para minimizar el tiempo de inactividad, incorporando retroalimentación constante.
-
-Esta estrategia garantizará la estabilidad, seguridad y una experiencia de usuario óptima mediante actualizaciones y soporte continuo.
+### Soporte y Actualizaciones  
+Brindaremos asistencia a los usuarios mediante un chat en vivo y una sección de ayuda con preguntas frecuentes. Planificaremos actualizaciones regulares con Kubernetes para minimizar el tiempo de inactividad, incorporando retroalimentación constante.
 
 ## 📞 Contacto 📞
 
-Para más información sobre el Blog Cineplanet, contáctenos a través de:
+Para más información sobre GAMES WORLD, contáctenos a través de:  
 
 - **Email:** [info@gamesworld.com](mailto:info@gamesworld.com)
 - **Teléfono:** +51 999 999 999
