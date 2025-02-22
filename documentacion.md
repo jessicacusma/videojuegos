@@ -23,9 +23,10 @@ Ser la plataforma líder en noticias, contenido y compras de videojuegos, destac
 
 ## 🌟 Justificación 🌟
 ### Beneficios
-✔️ Los usuarios tienen acceso rápido a videojuegos populares y novedades del sector. 
-✔️ La plataforma permite realizar compras de manera segura y sin complicaciones.
-✔️ Ofrecemos una experiencia visualmente atractiva y fácil de navegar.
+✅ Acceso rápido a videojuegos populares y novedades del sector.  
+✅ Compras seguras y sin complicaciones gracias a nuestra plataforma optimizada.  
+✅ Experiencia visual atractiva y fácil de navegar para todos los usuarios.  
+
 
 ### Valor
 "Games World" aporta valor al ofrecer una plataforma fácil de usar, donde los usuarios pueden acceder rápidamente a una amplia variedad de juegos y contenido actualizado, manteniéndolos informados sobre las últimas novedades de la industria.
