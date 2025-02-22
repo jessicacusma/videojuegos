@@ -21,7 +21,7 @@
  ├── 📄 index.html       # Página principal
  ├── 📄 README.md        # Documentación del proyecto
 
-
+```
 ## 🛠️ Tecnologías Utilizadas  
 - **HTML5**: Estructura del sitio.  
 - **CSS + Bootstrap**: Estilos y diseño responsive.  
