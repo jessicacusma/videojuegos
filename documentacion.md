@@ -121,10 +121,10 @@ Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, market
 
 | Fase                               | Fecha de Inicio | Fecha de Finalización |
 | ---------------------------------- | --------------- | --------------------- |
-| Definición de Historias de Usuario | 01/08/2024      | 31/08/2024            |
-| Desarrollo de Aplicación           | 01/09/2024      | 30/11/2024            |
-| Pruebas y Control de Calidad       | 01/12/2024      | 31/01/2025            |
-| Despliegue y Mantenimiento         | 01/02/2025      | 28/02/2025            |
+| Definición de Requerimientos       | 22/02/2025      | 28/02/2024            |
+| Desarrollo de Aplicación           | 01/03/2025      | 30/14/2025            |
+| Pruebas y Control de Calidad       | 01/05/2025      | 31/05/2025            |
+| Despliegue y Mantenimiento         | 01/06/2025      | 30/06/2025            |
 
 ## 📈 Estrategia de Monitoreo y Mantenimiento 📈
 ### Plan de Monitoreo y Mantenimiento
