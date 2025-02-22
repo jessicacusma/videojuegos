@@ -39,37 +39,34 @@ World Games es un sitio web completo para fanáticos de los videojuegos, ofrecie
 
 ## Funcionalidades Principales
 - Publicación y gestión de artículos sobre videojuegos.
-- Integración de trailers, gameplays y contenido multimedia.
-- Foros y comentarios para fomentar la interacción entre los usuarios.
 - Diseño responsivo para una experiencia fluida en todos los dispositivos.
-- Optimización SEO para mejorar la visibilidad en los motores de búsqueda.
+- Dispone de una búsqueda avanzada que permite filtrar videojuegos por género, plataforma y precio.
+- Ofrece la posibilidad de comprar videojuegos y productos relacionados directamente desde la plataforma.
   
 ## 🌍 Impacto Social y Ambiental 🌍
 ### Responsabilidad Corporativa
-Blog Cineplanet se compromete con:
-- **Prácticas sostenibles y éticas:** Producción de contenido que promueve la inclusión cultural y la accesibilidad para todos los públicos.
-- **Reducción del impacto ambiental:** Adopta medidas para minimizar su huella ambiental en todas las etapas de producción.
-- **Colaboración comunitaria:** Apoyo a iniciativas educativas y comunitarias para fortalecer las comunidades a través del cine.
-- **Alta ética en producción:** Mantenimiento de estándares éticos elevados en todas las facetas del negocio.
+"Games World" se compromete con:
+- **Prácticas responsables y éticas:** Generación de contenido que fomente la diversidad cultural y sea accesible para todos los públicos.
+- **Reducción del impacto ecológico:** Minimizar su huella ecológica en la producción.
+- **Apoyo comunitario:** Apoyo a iniciativas educativas y sociales para fortalecer las comunidades a través de los videojuegos.
+- **Normas éticas elevadas:** Asegurar altos estándares de integridad en cada aspecto de nuestra operación..
 
 ## 📊 Análisis de Mercado 📊
 ### Oportunidades de Mercado
-El mercado cinematográfico en Perú presenta un crecimiento constante, con una demanda creciente de contenido digital accesible y de calidad sobre cine y entretenimiento.
+El mercado de videojuegos en Perú está en expansión, con creciente interés por contenido digital y novedades de la industria.
 
 ### Competencia
-Competimos directamente con otros medios de comunicación y blogs especializados en cine, diferenciándonos por nuestra combinación única de contenido multimedia y enfoque en la experiencia del usuario.
+Enfrentamos competencias con  grandes plataformas que ofrecen contenido similar. Sin embargo, nos diferenciamos por tener un diseño enfocado en la facilidad de uso y la satisfacción del usuario.
 
 ### Análisis de Riesgos
-Identificamos posibles riesgos como cambios en las preferencias del público, competencia intensificada y desafíos técnicos que podrían afectar la operación y crecimiento del blog.
+Se identifican riesgos potenciales como la variación en las preferencias de los usuarios, el aumento de la competencia y dificultades técnicas que podrían impactar el desempeño y expansión del sitio web.
 
 ## 🔍 Tecnología y Metodología 🔍
 ### Tecnologías Principales
-- **Astro 4 para el Frontend:** Astro 4 es utilizado para la generación de sitios estáticos y dinámicos de manera eficiente. Ofrece una experiencia de usuario rápida y fluida al pre-renderizar contenido estático y luego actualizar dinámicamente solo cuando es necesario, optimizando el rendimiento y la velocidad de carga.
-
-- **Strapi como CMS:** Strapi actúa como un sistema de gestión de contenido flexible y escalable. Facilita la creación, gestión y publicación de contenido multimedia, garantizando una administración eficiente y una integración fluida con la estructura de la aplicación del Blog Cineplanet.
+El sitio web está construido con HTML, CSS, JavaScript y Bootstrap, herramientas fundamentales para el diseño responsivo, la interacción dinámica y la accesibilidad del contenido en "World Games"
 
 ### Metodología de Desarrollo
-Adoptamos una metodología ágil para iteraciones rápidas y adaptativas, asegurando entregas continuas de valor y cumplimiento de requisitos, mediante planificación de sprints y prácticas de integración continua y pruebas automatizadas.
+Adoptamos un enfoque iterativo y flexible, permitiendo avances constantes y adaptaciones rápidas a medida que se desarrollan nuevas características, mejorando la experiencia del usuario y ajustando el proyecto según las necesidades y feedback de los usuarios.
 
 ## 🔧 Estrategia de Implementación y Despliegue 🔧
 ### Plan de Implementación
