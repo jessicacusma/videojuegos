@@ -88,34 +88,34 @@ Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, market
 | **Total**                |                                                                                 | **$80,000**       |
 
 ### Fases del Proyecto
-1. **Definición de Historias de Usuario**
-   - **Empatizar:** Investigación profunda para comprender necesidades y expectativas clave.
-   - **Definir:** Clarificación inicial de problemas y definición de historias de usuario.
-   - **Idear:** Generación de ideas y soluciones potenciales.
-   - **Priorizar:** Clasificación según valor y urgencia.
-   - **Prototipar:** Desarrollo inicial de prototipos para pruebas tempranas.
-   - **Testear y Revisar:** Validación con usuarios reales y ajustes iterativos.
+1. **Definición de Requerimientos**
+   - **Empatizar:** Comprender las necesidades y expectativas de los jugadores.
+   - **Definir:** Identificar problemas clave y definir funcionalidades principales.
+   - **Idear:** Generar soluciones y características para la plataforma.
+   - **Priorizar:** Clasificar funciones según su impacto y urgencia.
+   - **Prototipar:** Crear prototipos de la interfaz y funcionalidades para pruebas iniciales.
+   - **Testear y Revisar:** Validación temprana con usuarios y ajustes según feedback.
    - **Diseñar:** Implementación final de la interfaz de usuario basada en las historias definidas.
 
 2. **Desarrollo de Aplicación**
-   - **Revisar:** Aseguramiento de claridad y alineación de historias de usuario.
-   - **Sprint Planning:** Planificación detallada de sprints y asignación de tareas.
-   - **Desarrollo:** Implementación de historias de usuario prioritarias.
+   - **Planificación:** Organizar tareas y asignar recursos para cada fase.
+   - **Desarrollo:**  Implementación de las funcionalidades más importantes.
+   - **Dailys:** Reuniones periódicas para asegurar el avance del proyecto.
    - **Dailys:** Reuniones diarias para seguimiento y resolución de impedimentos.
-   - **Integración Continua:** Integración frecuente para detección y corrección oportuna de errores.
-   - **Pruebas Automatizadas:** Implementación de pruebas para garantizar estabilidad y funcionalidad.
+   - **Integración Continua:** Integración constante del código para detectar errores tempranos.
+   - **Pruebas Automatizadas:** Garantizar estabilidad y rendimiento con pruebas automáticas.
 
 3. **Pruebas y Control de Calidad**
-   - **Sprint Review:** Revisión y validación de funcionalidades completadas al final de cada sprint.
-   - **Sprint Retrospective:** Evaluación para mejorar procesos en futuras iteraciones.
+   - **Revisión de Funcionalidades:** Validación de las funcionalidades completadas.
+   - **Evaluación de Procesos:** Identificación de oportunidades de mejora en el proceso de desarrollo.
    - **Pruebas de Rendimiento:** Evaluación de capacidad del sistema bajo carga esperada.
    - **Pruebas de Seguridad:** Continua evaluación y mitigación de vulnerabilidades.
 
 4. **Despliegue y Mantenimiento**
-   - **Release Planning:** Planificación cuidadosa de despliegues para implementaciones sin problemas.
-   - **Despliegue:** Uso de contenedores y orquestadores para eficiente despliegue en producción.
-   - **Monitoreo Continuo:** Supervisión constante para detección proactiva y resolución de problemas.
-   - **Actualizaciones y Mejoras Continuas:** Planificación basada en retroalimentación y tendencias para mantener relevancia y eficiencia.
+   - **Release Planning:** Estrategia de despliegue para una transición fluida.
+   - **Despliegue:** Implementación de la plataforma en el entorno de producción.
+   - **Monitoreo Continuo:** Vigilancia constante para detectar problemas de funcionamiento.
+   - **Actualizaciones:** Mejoras basadas en la retroalimentación y nuevas tendencias del mercado.
 
 ### Cronograma
 
