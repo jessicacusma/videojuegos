@@ -5,7 +5,6 @@ Desarrollo web realizado con HTML, CSS y Bootstrap en el Curso de Diseño de Int
 
 Es adaptable a varios dispositivos.
 
-=======
 # 🎮 GAMES WORLD
 
 **GAMES WORLD** es una página web interactiva enfocada en la venta de videojuegos, ofreciendo una interfaz moderna, responsive y amigable para los usuarios.
