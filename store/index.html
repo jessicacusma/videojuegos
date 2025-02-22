@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games World - Tienda de Juegos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="..\style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body class="bg-light">
+
+    <!-- Header -->
+    <header class="bg-dark text-white text-center py-3">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark shadow">
+            <div class="container">
+                <a class="navbar-brand" href="#">🎮 GAMES WORLD</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link text-white" href="..\index.html">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="..\aboutUs\aboutUs.html">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="..\contact\contact.html">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Sección de Promociones -->
+    <div class="container mt-5 pt-5">
+        <div class="alert alert-info text-center">
+            ¡Promoción especial! Descuento del 10% en compras mayores a $100 🎉
+        </div>
+    </div>
+
+    <!-- Sección de Juegos con Barra de Navegación -->
+    <div class="container mt-4">
+        <ul class="nav nav-tabs" id="gameTabs">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="tab" href="#accion">Acción</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#aventura">Aventura</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#terror">Terror</a>
+            </li>
+        </ul>
+        <!-- Campo de búsqueda -->
+        <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Buscar juegos..." aria-label="Buscar" id="buscarInput">
+            <button class="btn btn-outline-light" type="button" id="buscarBtn">🔍</button>
+        </form>
+
+        <div class="tab-content mt-3">
+            <!-- Juegos de Acción -->
+            <div class="tab-pane fade show active" id="accion">
+                <div class="row" id="juegos">
+                    <!-- Producto 1 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\SuperMario.jpg" class="card-img-top" alt="Super Mario Bros">
+                            <div class="card-body text-center">
+                                <h5 class="fw-bold">Super Mario Bros</h5>
+                                <p class="card-text">El objetivo es completar los niveles y llegar al castillo final para enfrentar a Bowser y liberar a la princesa.</p>
+                                <p class="card-text">Precio: $50</p>
+                                <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                <button class="btn btn-success agregar-carrito" data-id="1" data-nombre="Super Mario Bros" data-precio="50">Agregar al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+        
+                    <!-- Producto 2 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\Uncharted.jpg" class="card-img-top" alt="Uncharted">
+                            <div class="card-body text-center">
+                                      <h5 class="fw-bold">Uncharted</h5>
+                                      <p class="card-text">Lo que comienza como un atraco se convierte en una competencia contra el despiadado Santiago Moncada.</p>
+                                      <p class="card-text">Precio: $80</p>
+                                      <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                      <button class="btn btn-success agregar-carrito" data-id="2" data-nombre="Uncharted" data-precio="80">Agregar al carrito</button>
+                                  </div>
+                        </div>
+                    </div>
+        
+                    <!-- Producto 3 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\Resident.jpeg" class="card-img-top" alt="Resident Evil 4 Remake">
+                                  <div class="card-body text-center">
+                                      <h5 class="fw-bold">Resident Evil 4 Remake</h5>
+                                      <p class="card-text">Resident Evil 4 Remake es una versión modernizada del clásico juego de terror y acción de Capcom.</p>
+                                      <p class="card-text">Precio: $30</p>
+                                      <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                      <button class="btn btn-success agregar-carrito" data-id="3" data-nombre="Resident Evil 4 Remake" data-precio="30">Agregar al carrito</button>
+                                  </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Juegos de Aventura -->
+            <div class="tab-pane fade" id="aventura">
+                <div class="row">
+                    <div class="row" id="juegos">
+                        <!-- Producto 1 -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img src="..\Galeria\SuperMario.jpg" class="card-img-top" alt="Super Mario Bros">
+                                <div class="card-body text-center">
+                                    <h5 class="fw-bold">Super Mario Bros</h5>
+                                    <p class="card-text">El objetivo es completar los niveles y llegar al castillo final para enfrentar a Bowser y liberar a la princesa.</p>
+                                    <p class="card-text">Precio: $50</p>
+                                    <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                    <button class="btn btn-success agregar-carrito" data-id="1" data-nombre="Super Mario Bros" data-precio="50">Agregar al carrito</button>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <!-- Producto 2 -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img src="..\Galeria\Uncharted.jpg" class="card-img-top" alt="Uncharted">
+                                <div class="card-body text-center">
+                                          <h5 class="fw-bold">Uncharted</h5>
+                                          <p class="card-text">Lo que comienza como un atraco se convierte en una competencia contra el despiadado Santiago Moncada.</p>
+                                          <p class="card-text">Precio: $70</p>
+                                          <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                          <button class="btn btn-success agregar-carrito" data-id="2" data-nombre="Uncharted" data-precio="70">Agregar al carrito</button>
+                                      </div>
+                            </div>
+                        </div>
+            
+                        <!-- Producto 3 -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img src="..\Galeria\Resident.jpeg" class="card-img-top" alt="Resident Evil 4 Remake">
+                                      <div class="card-body text-center">
+                                          <h5 class="fw-bold">Resident Evil 4 Remake</h5>
+                                          <p class="card-text">Resident Evil 4 Remake es una versión modernizada del clásico juego de terror y acción de Capcom.</p>
+                                          <p class="card-text">Precio: $75</p>
+                                          <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                          <button class="btn btn-success agregar-carrito" data-id="3" data-nombre="Resident Evil 4 Remake" data-precio="75">Agregar al carrito</button>
+                                      </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Juegos de Terror -->
+            <div class="tab-pane fade" id="terror">
+                <div class="row" id="juegos">
+                    <!-- Producto 1 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\SuperMario.jpg" class="card-img-top" alt="Super Mario Bros">
+                            <div class="card-body text-center">
+                                <h5 class="fw-bold">Super Mario Bros</h5>
+                                <p class="card-text">El objetivo es completar los niveles y llegar al castillo final para enfrentar a Bowser y liberar a la princesa.</p>
+                                <p class="card-text">Precio: $50</p>
+                                <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                <button class="btn btn-success agregar-carrito" data-id="1" data-nombre="Super Mario Bros" data-precio="50">Agregar al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+        
+                    <!-- Producto 2 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\Uncharted.jpg" class="card-img-top" alt="Uncharted">
+                            <div class="card-body text-center">
+                                      <h5 class="fw-bold">Uncharted</h5>
+                                      <p class="card-text">Lo que comienza como un atraco se convierte en una competencia contra el despiadado Santiago Moncada.</p>
+                                      <p class="card-text">Precio: $80</p>
+                                      <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                      <button class="btn btn-success agregar-carrito" data-id="2" data-nombre="Uncharted" data-precio="80">Agregar al carrito</button>
+                                  </div>
+                        </div>
+                    </div>
+        
+                    <!-- Producto 3 -->
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="..\Galeria\Resident.jpeg" class="card-img-top" alt="Resident Evil 4 Remake">
+                                  <div class="card-body text-center">
+                                      <h5 class="fw-bold">Resident Evil 4 Remake</h5>
+                                      <p class="card-text">Resident Evil 4 Remake es una versión modernizada del clásico juego de terror y acción de Capcom.</p>
+                                      <p class="card-text">Precio: $99</p>
+                                      <a href="form.html" class="btn btn-outline-success">Comprar</a>
+                                      <button class="btn btn-success agregar-carrito" data-id="3" data-nombre="Resident Evil 4 Remake" data-precio="99">Agregar al carrito</button>
+                                  </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Carrito de Compras -->
+    <div class="container mt-4">
+        <div id="carrito" class="card p-3">
+            <h2>Carrito de Compras</h2>
+            <ul id="lista-carrito" class="list-group mb-3">
+                <li class="list-group-item text-center text-muted">Tu carrito está vacío 🛒</li>
+            </ul>
+            <h4>Total: $<span id="total">0.00</span></h4>
+            <div class="d-grid gap-2">
+                <button id="guardar-carrito" class="btn btn-primary">💾 Guardar Carrito</button>
+                <button id="comprar" class="btn btn-success">🛍 Comprar</button>
+                <button id="vaciar-carrito" class="btn btn-danger">🗑 Vaciar Carrito</button>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    
+    <footer id="contacto" class="bg-dark text-white text-center py-4">
+        <div class="container">
+            <p>&copy; 2025 Games World. Todos los derechos reservados.</p>
+             <!-- Section: Social media -->
+            <p>Síguenos en redes sociales:</p>
+            <a href="#" class="text-white me-3"><i class="bi bi-facebook"></i></a>
+            <a href="#" class="text-white me-3"><i class="bi bi-twitter"></i></a>
+            <a href="#" class="text-white me-3"><i class="bi bi-instagram"></i></a>
+            <a href="#" class="text-white me-3"><i class="bi bi-whatsapp"></i></a>
+
+            
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
