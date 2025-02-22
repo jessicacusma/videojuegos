@@ -12,12 +12,12 @@
 
 ## 📁 Estructura del Proyecto  
 📂 videojuegos/
-├── 📁 Galería/ # Imágenes de videojuegos
-├── 📁 Formulario/ # Página del formulario de compra
-├── 📁 Contacto/ # Página de contacto
-├── 📁 Nosotros/ # Página de información sobre la empresa
-├── 📄 index.html # Página principal
-├── 📄 README.md # Documentación del proyecto
+├── 📁 Galería/ # Imágenes de videojuegos.
+├── 📁 Formulario/ # Página del formulario de compra.
+├── 📁 Contacto/ # Página de contacto.
+├── 📁 Nosotros/ # Página de información sobre la empresa.
+├── 📄 index.html # Página principal.
+├── 📄 README.md # Documentación del proyecto.
 
 ## 🛠️ Tecnologías Utilizadas  
 - **HTML5**: Estructura del sitio.  
