@@ -59,18 +59,18 @@ El mercado de videojuegos en Perú está en expansión, con creciente interés p
 Enfrentamos competencias con  grandes plataformas que ofrecen contenido similar. Sin embargo, nos diferenciamos por tener un diseño enfocado en la facilidad de uso y la satisfacción del usuario.
 
 ### Análisis de Riesgos
-Se identifican riesgos potenciales como la variación en las preferencias de los usuarios, el aumento de la competencia y dificultades técnicas que podrían impactar el desempeño y expansión del sitio web.
+Identificamos riesgos como la competencia, cambios en las preferencias de los usuarios y posibles fallos técnicos, y proponemos estrategias como el monitoreo constante y la mejora continua.
 
 ## 🔍 Tecnología y Metodología 🔍
 ### Tecnologías Principales
-El sitio web está construido con HTML, CSS, JavaScript y Bootstrap, herramientas fundamentales para el diseño responsivo, la interacción dinámica y la accesibilidad del contenido en "World Games"
+El proyecto utiliza HTML, CSS, JavaScript y Bootstrap para garantizar una experiencia de usuario fluida y accesible, optimizando el rendimiento y la funcionalidad del sitio web en diversos dispositivos.
 
 ### Metodología de Desarrollo
-Adoptamos un enfoque iterativo y flexible, permitiendo avances constantes y adaptaciones rápidas a medida que se desarrollan nuevas características, mejorando la experiencia del usuario y ajustando el proyecto según las necesidades y feedback de los usuarios.
+Aplicamos un enfoque ágil, adaptándonos rápidamente a los cambios y necesidades del mercado, lo que nos permite mejorar la plataforma de forma continua y asegurar una alta calidad en cada entrega.
 
 ## 🔧 Estrategia de Implementación y Despliegue 🔧
 ### Plan de Implementación
-El proyecto del Blog Cineplanet se desarrollará en fases: definición de historias de usuario, desarrollo de la aplicación con planificación de sprints e integración continua, pruebas de calidad y seguridad, y finalmente despliegue con monitoreo continuo y mejoras basadas en retroalimentación.
+La implementación se realizará en etapas, iniciando con el diseño y desarrollo del sitio web, seguido de pruebas internas y su lanzamiento al público. Se mantendrá un monitoreo constante y se aplicarán mejoras según la retroalimentación recibida.
 
 ### Despliegue y Escalabilidad
 Usaremos servicios en la nube para el despliegue del Blog Cineplanet, asegurando escalabilidad automática y eficiente gestión de recursos para una experiencia de usuario consistente.
