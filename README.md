@@ -9,6 +9,9 @@ Es adaptable a varios dispositivos.
 
 **GAMES WORLD** es una página web interactiva enfocada en la venta de videojuegos, ofreciendo una interfaz moderna, responsive y amigable para los usuarios.
 
+![image](https://github.com/user-attachments/assets/6b57bd94-0cce-4363-a58d-6b7925cfda98)
+
+
 ## 📌 Características  
 ✔️ Diseño responsive con Bootstrap.  
 ✔️ Carrusel de imágenes con los mejores videojuegos.  
