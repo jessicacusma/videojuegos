@@ -7,7 +7,7 @@
 
 
 
-## 💻 Installation 💻
+## 💻 Instalación 💻
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
