@@ -80,12 +80,12 @@ Se asignará un presupuesto inicial para cubrir los gastos de desarrollo, market
 
 | Rubro                    | Descripción                                                                     | Monto Estimado ($) |
 | ------------------------ | ------------------------------------------------------------------------------- | ------------------ |
-| Desarrollo Frontend      | Implementación de la interfaz de usuario utilizando Astro 4 y React.            | $25,000            |
-| Desarrollo Backend       | Implementación de la lógica de negocio y gestión de datos con Strapi y Node.js. | $30,000            |
-| Pruebas y QA             | Implementación de pruebas automatizadas y control de calidad.                   | $10,000            |
-| Integración y Despliegue | Integración continua y despliegue en servicios en la nube.                      | $15,000            |
-| Diseño UX/UI             | Diseño y prototipado de la interfaz de usuario basada en historias de usuario.  | $20,000            |
-| **Total**                |                                                                                 | **$100,000**       |
+| Desarrollo Frontend      | Creación de la interfaz con HTML, CSS, JavaScript y Bootstrap.                  | $20,000            |
+| Desarrollo Backend       | Gestión de la base de datos y funcionalidades del sitio.                        | $30,000            |
+| Pruebas y QA             | Pruebas funcionales y de compatibilidad.	                                       | $8,000            |
+| Diseño UX/UI             | Diseño de la experiencia de usuario.	                                           | $12,000            |
+| Marketing y Publicidad   | Estrategias de marketing digital.	.	                                           | $10,000            |
+| **Total**                |                                                                                 | **$80,000**       |
 
 ### Fases del Proyecto
 1. **Definición de Historias de Usuario**
